@@ -1,0 +1,10 @@
+# Project exclude paths
+/001-link-userservice-provider/target/
+/004-link-userservice-provider/target/
+/005-link-consumer/target/
+/007-zk-userservice-provider/target/
+/008-zk-consumer/target/
+/009-zk-userservice-multi-provider/target/
+/010-zk-multi-consumer/target/
+/011-link-provider/target/
+/012-link-consumer/target/
